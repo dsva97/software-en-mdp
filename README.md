@@ -66,9 +66,8 @@
 
   (https://www.python.org/downloads/)
 
-- ### Node JS (NVM)
+- ### Node JS
 
-  - Usando NVM
     (En linux: https://github.com/nvm-sh/nvm)
     (En windows: https://github.com/coreybutler/nvm-windows -> https://github.com/coreybutler/nvm-windows/releases [1.1.8 / nvm-setup.zip])
 
