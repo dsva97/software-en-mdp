@@ -71,15 +71,6 @@
     (En linux: https://github.com/nvm-sh/nvm)
     (En windows: https://github.com/coreybutler/nvm-windows -> https://github.com/coreybutler/nvm-windows/releases [1.1.8 / nvm-setup.zip])
 
-    NVM instala fácilmente versiones de node js y npm, permitiendo cambiar entre versiones sin problema.
+    NVM instala multiples versiones de node js y npm fácilmente, permitiendo cambiar entre versiones sin problema.
 
-    Para instalar una versión específica:
-    `nvm install v14.17.3`
-
-    Para configurarla la versión a usar en el directorio actual:
-    `nvm use v14.17.3`
-
-    Para configurarla la versión por defecto en todo el sistema:
-    `nvm alias default v14.17.3`
-
-    La cuestión es que nvm añade la versión de node js configurada a la variable de entorno PATH. En este caso se necesitará permiso de admistrador: indispensable su consideración si el cambio es frecuente.
+    NVM añade la versión de node js configurada a la variable de entorno PATH. En este caso se necesitará permiso de admistrador: indispensable su consideración si el cambio es frecuente.
