@@ -8,7 +8,7 @@
 - [Postman](#postman)
 - [VSCode](#vscode)
 - [Docker Desktop](#docker)
-- [Node JS - nvm](#node-js)
+- [Node JS nvm](#node-js)
 - [Python 3](#python-3)
 
 ## Detalle
