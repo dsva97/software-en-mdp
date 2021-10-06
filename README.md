@@ -1,8 +1,9 @@
 # Software a instalar:
 
-- [DBeaver](#dbeaver)
+- [Git](#git)
 - [IBM Cli](#ibm-cli)
 - [AWS Cli](#aws-cli)
+- [DBeaver](#dbeaver)
 - [PGAdmin](#pgadmin)
 - [Robo 3T](#robo-3t-recomendable) (y/o [Mongo Compass](#mongo-compass)]
 - [Postman](#postman)
@@ -12,6 +13,10 @@
 - [Python 3](#python-3)
 
 ## Detalle
+
+- ### Git
+
+  (https://git-scm.com/)
 
 - ### IBM Cli
 
